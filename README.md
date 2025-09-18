@@ -1,6 +1,7 @@
 # 🎓 JUST University Management System
-<images/video controls src="WhatsApp Video 2025-09-18 at 02.53.39_8a0c2511.mp4" title="Title"></video>
-![alt text](images/image.png)
+## 🎥 Demo Video
+
+[![Watch the video](https://img.youtube.com/vi/EupT7OqhwVM/0.jpg)](https://youtu.be/EupT7OqhwVM?feature=shared)
 ---
 ## 📖 Project Overview
 The **JUST University Management System** is a comprehensive project developed in C++, designed to simulate a real-world university environment. This system provides advanced solutions for managing all academic and administrative operations, making it an effective tool for students, teachers, and administrators.
@@ -310,3 +311,4 @@ The Admin can review complaints, analyze statistics, and track skipped subjects.
 
 ##### [4] Back to Main Menu  
 - Return to the Admin Main Menu.  
+
