@@ -269,7 +269,7 @@ From here, the Admin can add, edit, delete, search, or display all students.
 - Return to the Admin Main Menu without making changes.  
 
 ---
-
+#### Course Management 
 ### 📚 Course Management  
 
 #### Overview  
@@ -301,7 +301,7 @@ This module allows the Admin to manage all courses offered by the university (ad
 - Return to the Admin Main Menu.  
 
 ---
-
+#### Registration Management 
 ### 📝 Registration Management  
 
 #### Overview  
@@ -329,7 +329,7 @@ The Admin can register or unregister students, view student’s courses, or see 
 - Return to the Admin Main Menu.  
 
 ---
-
+#### Grades Management  
 ### 🏆 Grades Management  
 
 #### Overview  
@@ -350,7 +350,7 @@ The Admin can add or edit grades and view student grade histories across courses
 - Return to the Admin Main Menu.  
 
 ---
-
+#### Reports Management
 ### 📊 Reports Management  
 
 #### Overview  
@@ -373,6 +373,7 @@ The Admin can review complaints, analyze statistics, and track skipped subjects.
 
 ##### [4] Back to Main Menu  
 - Return to the Admin Main Menu.  
+
 
 
 
