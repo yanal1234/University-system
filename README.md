@@ -2,6 +2,7 @@
 ## 📌 Table of Contents
 - [Demo Video](#Demo-Video)
 - [Project Documentation](#Project-Documentation)
+- [Installation / How to Run](#Installation/How to Run)
 - [Project Overview](#project-overview)
 - [Developers](#developers)
 - [Student Features](#student-features)
@@ -389,6 +390,7 @@ The Admin can review complaints, analyze statistics, and track skipped subjects.
 
 ##### [4] Back to Main Menu  
 - Return to the Admin Main Menu.  
+
 
 
 
