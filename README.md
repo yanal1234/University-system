@@ -2,7 +2,7 @@
 ## 📌 Table of Contents
 - [Demo Video](#Demo-Video)
 - [Project Documentation](#Project-Documentation)
-- [Installation / How to Run](#How-to-Run)
+- [Installation / How to Run](#installation--how-to-run)
 - [Project Overview](#project-overview)
 - [Developers](#developers)
 - [Student Features](#student-features)
