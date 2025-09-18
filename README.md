@@ -73,7 +73,7 @@ The project's primary goal is to deliver a centralized system that facilitates i
 
 The system was built using **Object-Oriented Programming (OOP)**, applying advanced concepts like **Inheritance** and **Encapsulation**. It also utilizes **data templates** to provide greater flexibility in data management. Furthermore, it relies on **text files** for permanent data storage, ensuring that no data is lost when the program is closed.
 ---
-
+#### Developers
 ## 👨‍💻 Developers
 
 This project was developed by the *JUST Logic Team*, a group of first-year students at Jordan University of Science and Technology. Despite being in our first academic year, we aimed to demonstrate strong capabilities in:
@@ -102,6 +102,7 @@ This project was developed by the *JUST Logic Team*, a group of first-year stude
   - Email: iljoahhanandeh06@gmail.com
 
 ---
+#### Student Features
 ## 🎓 Student Features
 ![alt text](images/image-1.png)
 The **Student Section** of the system offers a dynamic and interactive interface that empowers students to engage with the platform efficiently. Through a set of automated tools and clearly structured options, students can:
@@ -111,14 +112,15 @@ The **Student Section** of the system offers a dynamic and interactive interface
 - Perform essential academic tasks with ease  
 
 This section is designed to streamline the student experience by providing intuitive access to grades, schedules, assignments, and communication tools—all in one place.
+####  Login
 ### 🔐 Login
 ![alt text](<images/WhatsApp Image 2025-09-17 at 22.20.54_68368828.jpg>)
 Students can securely log in using their unique credentials. This ensures personalized access and protects academic data.
-
+####  View Personal Information
 ### 🧍 View Personal Information
 ![alt text](images/image-9.png)
 Displays the student’s full name, university ID, major, and academic level. Helps verify and manage profile details.
-
+#### View Registered Courses
 ### 📚 View Registered Courses
 ![alt text](images/image-10.png)
 Lists all courses the student is currently enrolled in, including:
@@ -126,7 +128,7 @@ Lists all courses the student is currently enrolled in, including:
 - Course code
 - Instructor name
 - Credit hours
-
+#### View Grades
 ### 📊 View Grades
 ![alt text](images/image-11.png)
 Allows students to track their performance in each course:
@@ -134,14 +136,14 @@ Allows students to track their performance in each course:
 - Final grade
 - Total grade
 - Grade status (e.g., Passed, Failed)
-
+#### Unregister from Course
 ### 📤Unregister from Course
 ![alt text](images/image-13.png)
 ![alt text](<images/Screenshot 2025-09-17 234953.png>)
 ![alt text](images/image-18.png)
 Students can withdraw from any registered course by entering the corresponding line number of the course in their list.  
 This action updates the course list and reflects the withdrawal immediately within the system.
-
+#### Register for a Course
 ### ➕ Register for a Course
 ![alt text](images/image-17.png)
 ![alt text](images/image-12.png)
@@ -195,7 +197,7 @@ Includes course names, codes, and relevant academic details.
 ![alt text](images/image-21.png)
 Allows instructors to view the list of enrolled students for each course.  
 Provides student names and university IDs for easy reference and management.
-
+#### Submit a Complaint
 ### 📝 Submit a Complaint
 ![alt text](images/image-20.png)
 ![alt text](images/image-22.png)
@@ -204,7 +206,7 @@ The system automatically includes:
 - Instructor role and university ID  
 - Message content  
 This ensures that the administration receives complete context for each submission.
-
+#### Edit My Profile
 ### 🛠️ Edit My Profile
 ![alt text](images/image-23.png)
 Instructors can update their personal account information, including:
@@ -213,6 +215,7 @@ Instructors can update their personal account information, including:
 - Password  
 This feature helps maintain accurate records and ensures account security.
 ---
+#### Admin Role  
 ## 🛡️ Admin Role  
 
 ### Overview  
@@ -225,7 +228,7 @@ They have full access to academic and administrative operations, ensuring:
 In short, the **Admin** acts as the main control point for all academic entities.  
 
 ---
-
+##### Student Management  
 ### 👨‍🎓 Student Management  
 
 #### Overview  
@@ -370,6 +373,7 @@ The Admin can review complaints, analyze statistics, and track skipped subjects.
 
 ##### [4] Back to Main Menu  
 - Return to the Admin Main Menu.  
+
 
 
 
