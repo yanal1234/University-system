@@ -67,9 +67,11 @@ You can read the full project report on [Google Drive](https://drive.google.com/
 1. **Clone the repository**  
    ```bash
    git clone https://github.com/yanal1234/University-system.git
+   
 2. **Enter the project folder**  
    ```bash
    cd University-system
+   
    3. **Compile the code**  
    ```bash
   g++ *.cpp -o university_system
@@ -393,6 +395,7 @@ The Admin can review complaints, analyze statistics, and track skipped subjects.
 
 ##### [4] Back to Main Menu  
 - Return to the Admin Main Menu.  
+
 
 
 
