@@ -64,23 +64,17 @@ You can read the full project report on [Google Drive](https://drive.google.com/
 **Goal:** Make it easy for anyone to run the project without issues.
 
 ### Steps:
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/yanal1234/University-system.git
-   
-2. **Enter the project folder**  
-   ```bash
-   cd University-system
-   
-   3. **Compile the code**  
-   ```bash
-  g++ *.cpp -o university_system
-  
-   4. **Run the program**  
-   ```bash
-   ./university_system
 
-💡 Tip: Anyone can try the project quickly without additional instructions.
+1. **Clone the repository**: Download the project to your computer using the link: https://github.com/yanal1234/University-system.git
+
+2. **Enter the project folder**: Open the folder named `University-system`.
+
+3. **Compile the code**: Use a C++ compiler to compile all `.cpp` files into an executable. For example, you can use `g++ *.cpp -o university_system`.
+
+4. **Run the program**: Open the compiled executable (for example, `university_system`) to start using the system.
+
+💡 **Tip:** Anyone can try the project quickly without needing extra instructions.
+
 ---
 #### Project Overview
 ## 📖 Project Overview
@@ -395,6 +389,7 @@ The Admin can review complaints, analyze statistics, and track skipped subjects.
 
 ##### [4] Back to Main Menu  
 - Return to the Admin Main Menu.  
+
 
 
 
