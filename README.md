@@ -1,11 +1,54 @@
 # 🎓 JUST University Management System
 ## 📌 Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Roles](#roles)
-  - [Student](#student)
-  - [Instructor](#instructor)
-  - [Admin](#admin)
+- [Demo Video](#demo-video)
+- [Project Documentation](#project-documentation)
+- [Project Overview](#project-overview)
+- [Developers](#developers)
+- [Student Features](#student-features)
+  - [Login](#login)
+  - [View Personal Information](#view-personal-information)
+  - [View Registered Courses](#view-registered-courses)
+  - [View Grades](#view-grades)
+  - [Unregister from Course](#unregister-from-course)
+  - [Register for a Course](#register-for-a-course)
+  - [Submit Report or Complaint](#submit-report-or-complaint)
+  - [Edit Profile](#edit-profile)
+  - [View Passed Courses & Academic Summary](#view-passed-courses--academic-summary)
+- [Instructor Features](#instructor-features)
+  - [View My Courses](#view-my-courses)
+  - [View Students in My Courses](#view-students-in-my-courses)
+  - [Submit a Complaint](#submit-a-complaint)
+  - [Edit My Profile](#edit-my-profile)
+- [Admin Role](#admin-role)
+  - [Student Management](#student-management)
+    - [Add Student](#1-add-student)
+    - [Edit Student](#2-edit-student)
+    - [Delete Student](#3-delete-student)
+    - [Search Student](#4-search-student)
+    - [Show All Students](#5-show-all-students)
+    - [Back to Main Menu](#6-back-to-main-menu)
+  - [Course Management](#course-management)
+    - [Add Course](#1-add-course)
+    - [Edit Course](#2-edit-course)
+    - [Delete Course](#3-delete-course)
+    - [Show All Courses](#4-show-all-courses)
+    - [Back to Main Menu](#5-back-to-main-menu)
+  - [Registration Management](#registration-management)
+    - [Register Student in Course](#1-register-student-in-course)
+    - [Unregister Student](#2-unregister-student)
+    - [Show Student's Courses](#3-show-students-courses)
+    - [Show Course's Students](#4-show-courses-students)
+    - [Back to Main Menu](#5-back-to-main-menu)
+  - [Grades Management](#grades-management)
+    - [Add/Edit Grade](#1-addedit-grade)
+    - [Show Student Grades](#2-show-student-grades)
+    - [Back to Main Menu](#3-back-to-main-menu)
+  - [Reports Management](#reports-management)
+    - [Complaints Box](#1-complaints-box)
+    - [Complete Statistics](#2-complete-statistics)
+    - [Skipped Subjects Marks](#3-skipped-subjects-marks)
+    - [Back to Main Menu](#4-back-to-main-menu)
+
 
 ## 🎥 Demo Video
 
@@ -324,6 +367,7 @@ The Admin can review complaints, analyze statistics, and track skipped subjects.
 
 ##### [4] Back to Main Menu  
 - Return to the Admin Main Menu.  
+
 
 
 
