@@ -1,4 +1,12 @@
 # 🎓 JUST University Management System
+## 📌 Table of Contents
+- [Overview](#overview)
+- [Features](#features)
+- [Roles](#roles)
+  - [Student](#student)
+  - [Instructor](#instructor)
+  - [Admin](#admin)
+
 ## 🎥 Demo Video
 
 [![Watch the video](https://img.youtube.com/vi/EupT7OqhwVM/0.jpg)](https://youtu.be/EupT7OqhwVM?feature=shared)
@@ -316,6 +324,7 @@ The Admin can review complaints, analyze statistics, and track skipped subjects.
 
 ##### [4] Back to Main Menu  
 - Return to the Admin Main Menu.  
+
 
 
 
