@@ -55,7 +55,8 @@
 [![Watch the video](https://img.youtube.com/vi/EupT7OqhwVM/0.jpg)](https://youtu.be/EupT7OqhwVM?feature=shared)
 ---
 ## 📄 Project Documentation  
-<p style="color:rgba(0,0,0,0)">هذه الجملة شفافة</p>
+<font color="lightgray">هذه جملة خفيفة</font>
+
 You can read the full project report on [Google Drive](https://drive.google.com/file/d/1YnTryV2wD49HmWCfngDJXf2G0OO8REt-/view?usp=sharing).
 ---
 ## 📖 Project Overview
@@ -367,6 +368,7 @@ The Admin can review complaints, analyze statistics, and track skipped subjects.
 
 ##### [4] Back to Main Menu  
 - Return to the Admin Main Menu.  
+
 
 
 
